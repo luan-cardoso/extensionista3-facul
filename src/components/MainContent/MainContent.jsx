@@ -19,7 +19,7 @@ const MainContent = () => {
 
         <div className='object-cover'>
             <img 
-                src="../src/assets/supermarket.jpg" 
+                src="https://img.freepik.com/free-vector/people-buying-food-supermarket-concept-illustration_114360-13391.jpg?t=st=1732729445~exp=1732733045~hmac=da59713c1f67e2a6fba28e08ee310c26f80397b45c69e10316953a31dfe84a70&w=1060" 
                 alt="supermarket" 
                 className='w-full h-full object-contain'
             />
